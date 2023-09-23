@@ -1,0 +1,3 @@
+[submodule "webLB2"]
+	path = webLB2
+	url = https://github.com/niksahn/webLB2
